@@ -2,25 +2,20 @@
 An electronic project to build a programmable hardware that will be able to be connected with one or several kind of remote controls (like a PlasyStation Controller, a TV remote control, etc.). The first goal here is to build a TV alarm clock, it means that the built electronic circuit must be able to be configured and activated before you go sleeping, and then it will wake you up at time by switching on your TV device and using your Playstation (4) controller to open Youtube and go watching a video based on the research terms you already programed into the Microcontroller (Attiny).
 
 
-       *********************************************
-       *                                           *
-       *           CONCEPTS / Main Purpose         *
-       *                                           *
-       *********************************************
+
+## Concepts / Main Purposes
+
 
 
 There are two main purposes for the object built by this project:
   1) To be a TV (and related devices if needed) alarm for the morning wake up. I admit that a wake up with either "ligth", "sound" and "informations datas" are the three needed components for an efficient and a well-feeled wake up. That's why I think we must have the power of beeing waked up by the TV with the content that interests us the most possible. It is not possible to program your TV like that, it will be with this system !
   2) To be a shuting down (TV and related devices if needed) timer, for the sleeping time. You will be able to fall asleep without having to shutdown your devices manually. The built hardware will do the job for you, this concept avoids your devices to use useless power consumption while you've fallen asleep.
 
-.
 
-       ***************************************
-       *                                     *
-       *           FIRST VERSION             *
-       *       (global explanations)         *
-       *                                     *
-       ***************************************
+
+## First Version (Global explanations)
+
+
 
 **(v1)**: The first version of this built circuit is specific to the combo "TV + PS4" that I'm interested in.
 
@@ -43,12 +38,8 @@ There are two main purposes for the object built by this project:
 
 
 
-       ****************************************
-       *                                      *
-       *           Future VERSION             *
-       *           (contributions)            *
-       *                                      *
-       ****************************************
+## Future Version (contributions)
+
 
 
 
