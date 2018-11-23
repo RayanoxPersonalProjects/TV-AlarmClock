@@ -22,11 +22,11 @@ There are two main purposes for the object built by this project:
        *                                     *
        ***************************************
 
-(v1): The first version of this built circuit is specific to the combo "TV + PS4" that I'm interested in.
+**(v1)**: The first version of this built circuit is specific to the combo "TV + PS4" that I'm interested in.
 
 
 
- - Components:
+ - **Components**:
     - A TV remote Controller (1 input -> for waking up the sleeping TV)
     - A PS4 Controller (4 inputs -> To start the PS4, and browse until the video is started)
     - A TV Controller (1 input -> for waking up the sleeping TV)
@@ -39,7 +39,7 @@ There are two main purposes for the object built by this project:
 
 *TODO: Add simpler and smaller schemas directly into the README file
 
-If you want more informations about the conception of the tool, have a look at the "Conception_Explanations" folder which contains some pictures of my paper conception notes. You'll find electronic schemas of each part, and two use diagrams (one for the system view, one for the user view).
+**If you want more informations about the conception of the tool, have a look at the "Conception_Explanations"** folder which contains some pictures of my paper conception notes. You'll find electronic schemas of each part, and two use diagrams (one for the system view, one for the user view).
 
 
 
@@ -52,4 +52,4 @@ If you want more informations about the conception of the tool, have a look at t
 
 
 
-(v2) : Finaly, the future intention is to made a more generic circuit, to build a more standalone object than will be able to be connected to any TV remote control and any other kind of controller. Of course, it will still require to unmount the controllers to get some electric connections (to control the remote buttons), but that will be all the electronic works needed with the microcontroller programmation. I certainly won't have time (and not the immediate need) to start this version, so if anyone is motivated to contribute to do this version, he will be kindly welcomed :).
+**(v2)** : Finaly, the future intention is to made a more generic circuit, to build a more standalone object than will be able to be connected to any TV remote control and any other kind of controller. Of course, it will still require to unmount the controllers to get some electric connections (to control the remote buttons), but that will be all the electronic works needed with the microcontroller programmation. I certainly won't have time (and not the immediate need) to start this version, so if anyone is motivated to contribute to do this version, he will be kindly welcomed :).
