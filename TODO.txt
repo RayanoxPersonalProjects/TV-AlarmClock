@@ -1,0 +1,2 @@
+- Add into README an explanation about the microcontroller programmation sources
+- 

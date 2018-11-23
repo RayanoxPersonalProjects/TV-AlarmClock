@@ -1,0 +1,1 @@
+Here are stored all the files required for the microcontroller programmation. The Main.c file is the entry point of the program that have to be loaded into the ATtiny microcontroller (you can use an Arduino to program it).
