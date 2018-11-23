@@ -37,7 +37,10 @@ There are two main purposes for the object built by this project:
     - One Start timer button, to enable the system to end the configuration step, and start the timer step (until the final action -> Wake Up or Shutdown).
 
 
-*TODO: Add somes schemas of the electronic conception (already done on sheets).
+*TODO: Add simpler and smaller schemas directly into the README file
+
+If you want more informations about the conception of the tool, have a look at the "Conception_Explanations" folder which contains some pictures of my paper conception notes. You'll find electronic schemas of each part, and two use diagrams (one for the system view, one for the user view).
+
 
 
        ****************************************
